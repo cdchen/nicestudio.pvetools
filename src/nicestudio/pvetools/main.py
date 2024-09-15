@@ -46,4 +46,4 @@ class MainCommand(MasterCommand):
 
 
 def main():
-    MainCommand.execute()
+    MainCommand().execute()

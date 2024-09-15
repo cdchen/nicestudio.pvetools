@@ -1,6 +1,6 @@
 kwargs = {
     'name': 'nicestudio.pvetools',
-    'version': '1.0.dev2',
+    'version': '1.0.dev3',
     'description': 'Python script for PVE.',
     'long_description': open('README.md').read(),
     'author': 'niceStudio, Inc',
